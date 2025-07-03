@@ -1,0 +1,13 @@
+{
+  "name": "test-local-app",
+  "version": "1.0.0",
+  "description": "App simples para teste local",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
